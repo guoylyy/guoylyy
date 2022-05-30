@@ -1,18 +1,14 @@
-### Hi there 👋
 
-<!--
-**guoylyy/guoylyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
 
 - 🔭 I’m currently working on shanghai/china and aim to make something special. I'm working on building a free company.
+- 😄 Full-stack engineer. You can contact me by [Email](guoylyy@gmail.com) 
+- 🎩 Writing code and Reading is one of the things I've found the most about my calling.
+
+### Projects
+
+* Uband
+* BookCE
+
+### Videos
+...
