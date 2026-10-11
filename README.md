@@ -9,3 +9,8 @@
 - still working in shanghai.
 - try to make a oversea business with partners.
 - prepare to have my first baby.
+
+2026:
+- make FDE organization in SH
+- Joined a cross-border e-commerce company and directly led a team of 30 to 40 employees.
+- be a father
