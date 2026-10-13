@@ -1,16 +1,21 @@
+## About Me
 
-## About me
+I’m a full-stack engineer based in Shanghai, building a company with a simple goal: make something meaningful and accessible.
 
-- 🔭 I’m currently working on shanghai/china and aim to make something special. I'm working on building a free company.
-- 😄 Full-stack engineer. You can contact me by [Email](guoylyy@gmail.com) 
-- 🎩 Writing code and Reading is one of the things I've found the most about my calling. 
+I enjoy writing code and reading—two things that have shaped my sense of purpose. If you’d like to connect, email me.
 
-2025:
-- still working in shanghai.
-- try to make a oversea business with partners.
-- prepare to have my first baby.
+## 2025
 
-2026:
-- make a FDE organization in SH
-- Joined a cross-border e-commerce company and directly led a team of 30 to 40 employees.
-- be a father
+Continued building my life and work in Shanghai.
+
+Started exploring an overseas business with my partners.
+
+Prepared for one of life’s biggest changes: becoming a parent.
+
+## 2026
+
+Helped build a forward-deployed engineering (FDE) organization in Shanghai.
+
+Joined a cross-border e-commerce company and led a team of 30–40 people.
+
+Became a father.
