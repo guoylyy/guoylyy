@@ -2,7 +2,7 @@
 
 I’m a full-stack engineer based in Shanghai, building a company with a simple goal: make something meaningful and accessible.
 
-I enjoy writing code and reading—two things that have shaped my sense of purpose. If you’d like to connect, email me. [Email](guoylyy@gmail.com)
+I enjoy writing code(with AI) and reading—two things that have shaped my sense of purpose. If you’d like to connect, email me. [Email](guoylyy@gmail.com)
 
 ## 2025
 
